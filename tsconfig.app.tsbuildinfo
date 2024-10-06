@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/Movie/Movie.tsx","./src/components/Movie/MovieList.tsx","./src/contexts/JsonApiProvider.tsx","./src/contexts/MovieProvider.tsx","./src/interfaces/FileIncludedInterface.ts","./src/interfaces/MovieResponseInterface.ts"],"version":"5.6.2"}

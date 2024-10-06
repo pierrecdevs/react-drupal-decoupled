@@ -1,0 +1,20 @@
+.movile-list {
+    max-width:700px;
+}
+
+.movie {
+    margin-bottom: 4rem;
+    display: grid;
+    grid-template-columns: 170px auto;
+    gap: 2rem;
+}
+
+.movie__info {
+    grid-column: 2 / span 1;
+    text-align: left;
+}
+
+.movie__poster {
+    max-width: 100%;
+    grid-column: 1 / span 1;
+}
